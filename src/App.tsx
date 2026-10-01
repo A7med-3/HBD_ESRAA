@@ -17,27 +17,27 @@ import backgroundMusic from "./assets/music.mp3";
 import "./App.css";
 
 // Import photos from assets/solo
-import s1 from "./assets/solo/s1.png";
-import s2 from "./assets/solo/s2.png";
-import s3 from "./assets/solo/s3.png";
-import s4 from "./assets/solo/s4.png";
-import s5 from "./assets/solo/s5.png";
-import s6 from "./assets/solo/s6.png";
-import s7 from "./assets/solo/s7.png";
-import s8 from "./assets/solo/s8.png";
-import s9 from "./assets/solo/s9.png";
+import s1 from "./assets/solo/s1.jpeg";
+import s2 from "./assets/solo/s2.jpeg";
+import s3 from "./assets/solo/s3.jpeg";
+import s4 from "./assets/solo/s4.jpeg";
+import s5 from "./assets/solo/s5.jpeg";
+import s6 from "./assets/solo/s6.jpeg";
+import s7 from "./assets/solo/s7.jpeg";
+import s8 from "./assets/solo/s8.jpeg";
+import s9 from "./assets/solo/s9.jpeg";
 
 // Import photos from assets/together (only if enabled)
 // These imports are tree-shaken if togetherGallery.enabled is false
-import t1 from "./assets/together/t1.png";
-import t2 from "./assets/together/t2.png";
-import t3 from "./assets/together/t3.png";
-import t4 from "./assets/together/t4.png";
-import t5 from "./assets/together/t5.png";
-import t6 from "./assets/together/t6.png";
-import t7 from "./assets/together/t7.png";
-import t8 from "./assets/together/t8.png";
-import t9 from "./assets/together/t9.png";
+import t1 from "./assets/together/t1.jpeg";
+import t2 from "./assets/together/t2.jpeg";
+import t3 from "./assets/together/t3.jpeg";
+import t4 from "./assets/together/t4.jpeg";
+import t5 from "./assets/together/t5.jpeg";
+import t6 from "./assets/together/t6.jpeg";
+import t7 from "./assets/together/t7.jpeg";
+import t8 from "./assets/together/t8.jpeg";
+import t9 from "./assets/together/t9.jpeg";
 
 // Photo arrays
 const SOLO_PHOTOS = [s1, s2, s3, s4, s5, s6, s7, s8, s9];
