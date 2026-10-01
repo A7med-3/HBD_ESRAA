@@ -7,7 +7,7 @@
 
 export const config = {
   /* Name Verification Gate */
-  recipientName: "love", // required name to enter
+  recipientName: "luvv", // required name to enter
   nameHint: '4 letters, starts with "L"', // hint on wrong name
 
   /* Section Headings */
@@ -30,7 +30,7 @@ export const config = {
 
   /* Birthday Message: Each string is a paragraph */
   message: [
-    "Happy Birthday, my love!",
+    "Happy Birthday, Esraa!",
     "",
     "I hope today is filled with joy, laughter, and all the little moments that make you smile. As you step into this new year, may it bring exciting opportunities, meaningful memories, and the confidence to chase everything you dream of.",
     "",
@@ -38,7 +38,11 @@ export const config = {
     "",
     "Wishing you a beautiful birthday and an even more amazing year to come.",
     "",
-    "- With love,",
+    "إلى جميلتي...",
+    "",
+    "في يوم ميلادك، أتمنى لك عامًا جديدا مليئا بالنجاح، والسعادة، والطمأنينة، وأن يحقق اللّٰه لك كل أمنياتك، ويكتب لك الخير في كل خطوة. أسأل اللّٰه أن يرزقك راحةً لا تنتهي، وفرحًا يملأ قلبك، وضحكةً لا تغيب، وأن تكون سنتك القادمة أجمل من كل ما مضى.",
+    "",
+    "كل عام وأنت بخير، وكل عام وأنت تزهرين أكثر، وتحققين أحلامك واحدًا تلو الآخر.",
   ],
 
   /* Theme Colors - Change these to customize the entire website theme! */
